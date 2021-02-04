@@ -1,5 +1,4 @@
 # Mount a Shared Folder using a Bash Script in Linux
-# Credits to Offensive Security
 
 1. Create a file
 $ sudo nano /usr/local/sbin/mount-shared-folders
